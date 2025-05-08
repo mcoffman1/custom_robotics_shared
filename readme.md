@@ -1,4 +1,4 @@
-# Custon robotics shared
+# Custom robotics shared
 Shared repo for custom and open source robotics
 
 # 📘 Shared Educational Resources
