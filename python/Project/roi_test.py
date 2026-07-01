@@ -3,7 +3,7 @@ import cv2 as cv
 import time
 
 # **Live Feed Selection**
-cap = cv.VideoCapture(0)  # Open camera
+cap = cv.VideoCapture(1)  # Open camera
 time.sleep(2)  # Give the camera time to adjust
 
 live = roi_selection.live_select(cap)  # Start live ROI selection
